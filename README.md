@@ -1,7 +1,5 @@
 # Phonepe Pulse Data Visualization
 
-###### " Disclaimer:-This data between 2018 to 2022 in INDIA only "
-
 ## Introduction 
 
 * PhonePe has become one of the most popular digital payment platforms in India, with millions of users relying on it for their day-to-day transactions. The app is known for its simplicity, user-friendly interface, and fast and secure payment processing. It has also won several awards and accolades for its innovative features and contributions to the digital payments industry.
@@ -10,7 +8,7 @@
 
 ###### " Disclaimer:-This data between 2018 to 2022 in INDIA only "
 
-![Intro GUI](Intro GUI.png)
+![Intro GUI](https://github.com/Gopinathalpha7/Phonepe_Pulse_Data_Visualization/blob/b3da3d474f9146ce257be358ae225bafe0f296ac/Intro%20GUI.png)
 
 ## Developer Guide 
 
@@ -97,3 +95,6 @@
 ## Video link
 
 * Click the below Image
+
+[![Intro GUI](https://github.com/Gopinathalpha7/Phonepe_Pulse_Data_Visualization/blob/b3da3d474f9146ce257be358ae225bafe0f296ac/Intro%20GUI.png)](https://www.linkedin.com/posts/gopinath-56a02b169_guvi-iitm-zenclass-activity-7061077773880086528-U2-M?utm_source=share&utm_medium=member_desktop)
+
