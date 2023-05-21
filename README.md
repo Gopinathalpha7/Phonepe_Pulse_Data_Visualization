@@ -8,7 +8,7 @@
 
 ###### " Disclaimer:-This data between 2018 to 2022 in INDIA only "
 
-![Intro GUI](https://github.com/Gopinathalpha7/Phonepe_Pulse_Data_Visualization/blob/b3da3d474f9146ce257be358ae225bafe0f296ac/Intro%20GUI.png)
+![Intro GUI](immage/Intro GUI.png)
 
 ## Developer Guide 
 
