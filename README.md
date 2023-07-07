@@ -12,7 +12,7 @@
 
 ## Developer Guide 
 
-### 1.Tools
+### 1. Tools install
 
 * virtual code.
 * Jupyter notebook.
@@ -20,11 +20,11 @@
 * MySQL
 * Git
 
-### 2.Requirement Libraries to Install
+### 2. Requirement Libraries to Install
 
 * pip install pandas numpy os json requests subprocess mysql.connector sqlalchemy pymysql streamlit plotly.express
 
-### 3.Import Libraries
+### 3. Import Libraries
 
 **clone libraries**
 * import requests
@@ -42,7 +42,7 @@
 * from sqlalchemy import create_engine
 * import pymysql
 
-**Dash board libraries**
+**Dashboard libraries**
 * import streamlit as st
 * import plotly.express as px
 
