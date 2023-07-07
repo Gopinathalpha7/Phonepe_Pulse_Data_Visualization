@@ -18,6 +18,7 @@
 * Jupyter notebook.
 * Python 3.11.0 or higher.
 * MySQL
+* Git
 
 ### 2.Requirement Libraries to Install
 
